@@ -1,5 +1,6 @@
 streamlit
-chromadb
+chromadb==1.0.15
 google-generativeai
 sentence-transformers
 python-dotenv
+langchain
